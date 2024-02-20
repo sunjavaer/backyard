@@ -1,4 +1,5 @@
-use garden::vegetables::{Asparagus, AsparagusV2, Size};
+use crate::garden::vegetables::Size;
+use garden::vegetables::{Asparagus, AsparagusV2};
 pub mod garden;
 
 fn main() {
